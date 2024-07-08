@@ -20,4 +20,4 @@ To get started with this project on your local machine, follow the instructions 
    First, clone the repository to your local machine:
 
    ```sh
-   git clone https://github.com/rakshi11/Add-HTML-file.git
+   git clone https://github.com/rakshi11/Basic-HTML-file.git
