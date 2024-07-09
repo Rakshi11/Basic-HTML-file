@@ -1,20 +1,23 @@
-# Login Page
+# Project Title
 
-This is a simple login page created with HTML and CSS.
+## Introduction
 
-## Project Structure
+Welcome to the **Basic HTML Project**! This project aims to provide a simple starting point for anyone looking to explore HTML and web development. Our objective is to create a basic HTML file that serves as a foundational template for future development or learning.
 
-- `index.html`: The HTML file for the login page.
-- `styles.css`: The CSS file for styling the login page.
+In this project, we will:
+- Add a basic HTML file to the repository.
+- Provide a clean and simple example of an HTML document structure.
+- Offer a platform for learning and building upon fundamental web development skills.
 
-## How to Run
+## Getting Started
 
-1. Open the project folder in Visual Studio Code.
-2. Install the Live Server extension from the VS Code extensions marketplace.
-3. Right-click on `index.html` and select "Open with Live Server".
-4. The login page will open in your default web browser.
+To get started with this project on your local machine, follow the instructions below:
 
-## Features
+### Installation Process
 
-- Responsive design
-- Simple and clean user interface
+1. **Clone the Repository:**
+
+   First, clone the repository to your local machine:
+
+   ```sh
+   git clone https://github.com/rakshi11/Basic-HTML-file.git
